@@ -1,7 +1,7 @@
 # AutoWorth AI — Used Car Price & Deal Advisor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://autoworth-ai-2atya2ykaiuj8qxyajxccc.streamlit.app)
-> 🔗 **Live Demo:** [Click here to launch the AutoWorth AI App](https://autoworth-ai-2atya2ykaiuj8qxyajxccc.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://autoworth-ml.streamlit.app/)
+> 🔗 **Live Demo:** [Click here to launch the AutoWorth AI App](https://autoworth-ml.streamlit.app/)
 
 Individual final project for the **Artificial Intelligence** course at **Telecom Egypt (WE)**.
 Student: Mohamed Ahmed Farouk · Supervised by: Eng. Fayrouz Ahmed
